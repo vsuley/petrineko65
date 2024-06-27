@@ -18,5 +18,5 @@
 #
 ---
 include:
-  - board: nrf52840dk_nrf52840
+  - board: nrfmicro_13
     shield: zmk_uno
